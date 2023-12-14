@@ -1,0 +1,74 @@
+/* styles.css */
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #2d3250;
+}
+
+#projects {
+  background-color: #2d3250;
+}
+#halprojects {
+  background-color: #ffffff;
+}
+
+section {
+  padding-top: 6rem;
+}
+/*
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.animate {
+  animation: slideIn 0.5s forwards;
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+nav ul li a:hover {
+  color: #999;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}*/
+
+footer {
+  background-color: #676f9d;
+  padding: 20px;
+  text-align: center;
+}
